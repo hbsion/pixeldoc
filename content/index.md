@@ -2,7 +2,7 @@
 title: 卡密订阅教程
 ---
 
-# 卡密订阅教程
+<!--# 卡密订阅教程-->
 
 **请不要在闲\&鱼说以下敏感问题哦，不要在闲鱼聊下面这些没有账号的，需要Gemini陈品涨浩/Grok陈品/Perplexity/Claude/GPT/Codex成品技术问题**
 
@@ -10,11 +10,18 @@ title: 卡密订阅教程
 
 需要协助直接加下面联系方式
 
-**主要V：dopl\_us  备用V：outaichat QQ：3864309186**
+**主要V：dopl\_us**
+
+**备用V：outaichat**
+
+**QQ：3864309186**
+
 
 # 订阅地址
 
-**充值网站地址：****https://pro****\.dopl\.us     备用：****https://****pixel\.sh\.ikn\.cc**
+**充值网站地址：[https://pro\.dopl\.us](https://pro\.dopl\.us)**
+
+**备用：[https://pixel\.sh\.ikn\.cc](https://pixel\.sh\.ikn\.cc)**
 
 # 关闭付款资料（重要）
 
@@ -46,7 +53,7 @@ title: 卡密订阅教程
 
 # 开启 2FA 密钥（必须）
 
-直达链接：https://myaccount\.google\.com/security
+直达链接：[https://myaccount\.google\.com/security](https://myaccount\.google\.com/security)
 
 ![image\.png](assets/image%208.png)
 
@@ -82,7 +89,8 @@ title: 卡密订阅教程
 
 配置好后输入账号，密码，2FA密钥 在认证网站，提交任务，请耐心等待5\-10分钟
 
-**打开充值网址：****https://pro\.dopl\.us/****      如果打不开就用备用：**[**https://pixel\.sh\.ikn\.cc/**](https://pixel.sh.ikn.cc/)
+**打开充值网址：
+**充值网站地址：[https://pro\.dopl\.us](https://pro\.dopl\.us)** 如果打不开就用备用：**[https://pixel\.sh\.ikn\.cc](https://pixel\.sh\.ikn\.cc)**
 
 *两个充值网站都是一样的，哪个能打开用哪个，卡密通用。都打不开就在空白栏对应输入*
 
@@ -92,7 +100,7 @@ title: 卡密订阅教程
 
 ## 如何查看会员到期时间
 
-点链接 https://myaccount\.google\.com/payments\-and\-subscriptions
+**点链接 [https://myaccount.google.com/payments-and-subscriptions](https://myaccount.google.com/payments-and-subscriptions)**
 
 ## 订阅成功后官网工具栏功能缺失怎么办？
 
@@ -102,7 +110,7 @@ title: 卡密订阅教程
 
 
 
-**解决办法： 点链接 ****https://myaccount\.google\.com/age\-verification****   ，选择你方便的方式验证都可以。验证年龄通过即可恢复正常**
+**解决办法： 点链接 ****[https://myaccount\.google\.com/age\-verification](https://myaccount\.google\.com/age\-verification)****   ，选择你方便的方式验证都可以。验证年龄通过即可恢复正常**
 
 ![image\.png](assets/image%205.png)
 
